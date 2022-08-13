@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhartha Shrestha</h1>
 <h3 align="center">A passionate Game developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haxxed&label=Profile%20views&color=0e75b6&style=flat" alt="haxxed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haxxed" alt="haxxed" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sresidd" target="blank"><img src="https://img.shields.io/twitter/follow/sresidd?logo=twitter&style=for-the-badge" alt="sresidd" /></a> </p>
-
 - 🔭 I’m currently working on [Flappy Plane](https://github.com/HaxXeD/flaps)
 
 - 🌱 I’m currently learning **Firebase, Flutter**
