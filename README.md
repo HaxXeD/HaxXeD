@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Siddhartha Shrestha</h1>
 <h3 align="center">A passionate Game developer from Nepal</h3>
 
-- 🔭 I’m currently working on [Flappy Plane](https://github.com/HaxXeD/flaps)
-
+- 🔭 I’m currently working on [Trail Run](https://github.com/HaxXeD/Trail-Run0)
+<!-- 
 - 🌱 I’m currently learning **Firebase, Flutter**
 
-- 👯 I’m looking to collaborate on [Character Animation](https://github.com/HaxXeD/Character_Animation)
+- 👯 I’m looking to collaborate on [Character Animation](https://github.com/HaxXeD/Character_Animation) -->
 
-- 🤝 I’m looking for help with [FYP](https://github.com/HaxXeD/FYP)
+<!-- - 🤝 I’m looking for help with [FYP](https://github.com/HaxXeD/FYP) -->
 
 - 💬 Ask me about **c#, GameDev, C++, flutter**
 
